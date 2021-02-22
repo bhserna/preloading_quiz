@@ -1,2 +1,2 @@
-require_relative "../models"
-require_relative "../helpers"
+require_relative "../lib/models"
+require_relative "../lib/helpers"
